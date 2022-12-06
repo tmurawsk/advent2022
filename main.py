@@ -1,11 +1,12 @@
-from tasks import task1
-from tasks import task2
-from tasks import task3
+from tasks.task1 import Task1
+from tasks.task2 import Task2
+from tasks.task3 import Task3
 
 if __name__ == '__main__':
     pass
-    # task1.part1('input/1.txt')
-    # task1.part2('input/1.txt')
-    # task2.part1('input/2.txt')
-    # task2.part2('input/2.txt')
-    task3.part1('input/3.txt')
+    # Task1().run1()
+    # Task1().run2()
+    # Task2().run1()
+    # Task2().run2()
+    # Task3().run1()
+    # Task3().run2()
