@@ -1,4 +1,4 @@
-from base import Task
+from tasks.base import Task
 
 choose_score = {
     'X': 1,

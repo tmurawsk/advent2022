@@ -9,4 +9,4 @@ if __name__ == '__main__':
     # Task2().run1()
     # Task2().run2()
     # Task3().run1()
-    # Task3().run2()
+    Task3().run2()
