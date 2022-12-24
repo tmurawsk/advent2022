@@ -1,5 +1,3 @@
-import queue
-
 from tasks.base import Task
 
 

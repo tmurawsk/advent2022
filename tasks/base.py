@@ -10,3 +10,9 @@ class Task:
 
     def run2(self):
         pass
+
+    def peek(self) -> str:
+        pos = self.file.tell()
+        line = self.file.readline()
+        self.file.seek(pos)
+        return line
