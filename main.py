@@ -5,6 +5,7 @@ from tasks.task4 import Task4
 from tasks.task5 import Task5
 from tasks.task6 import Task6
 from tasks.task7 import Task7
+from tasks.task8 import Task8
 
 if __name__ == '__main__':
     pass
@@ -22,3 +23,5 @@ if __name__ == '__main__':
     # Task6().run2()
     # Task7().run1()
     # Task7().run2()
+    # Task8().run1()
+    # Task8().run2()
